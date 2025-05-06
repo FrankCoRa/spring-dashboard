@@ -1,4 +1,5 @@
 # spring-dashboard
 
 run:
-https://hub.gesis.mybinder.org/user/frankcora-spring-dashboard-ycrznwxn/lab/tree/dashboard.ipynb
+
+https://mybinder.org/v2/gh/FrankCoRa/spring-dashboard/HEAD?filepath=dashboard.ipynb
