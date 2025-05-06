@@ -1,4 +1,4 @@
 panel
-pandas
 matplotlib
 seaborn
+pandas
