@@ -1,4 +1,5 @@
-panel
-matplotlib
-seaborn
 pandas
+matplotlib
+numpy
+scikit-learn
+jupyter
